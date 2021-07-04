@@ -1,5 +1,5 @@
 # Kernel-Compile
-How to compile the linux kernel 
+## How to compile the linux kernel 
 
 ## Install dependencies
 	sudo apt-get install libncurses-dev flex bison openssl libssl-dev dkms libelf-dev libudev-dev libpci-dev libiberty-dev autoconf
