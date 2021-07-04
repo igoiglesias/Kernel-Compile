@@ -17,7 +17,7 @@ How to compile the linux kernel
 
 ## Generatte or copy config file
 	cp /boot/config-$(uname -r) .config
-	### or
+### or
 	make localmodconfig
 
 ## Personalize
